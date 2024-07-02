@@ -8,6 +8,10 @@ https://www.siwoo-ecommerce.com/
 
 <img src="./misc/aws-architecture.png" width="1000">
 
+## Development Note & History
+
+https://medium.com/@siwoo.jg/list/ecommerce-website-sideproject-028ed604f728
+
 ## Features
 
 - Scalable and serverless microservices backend architecture with [AWS Lambda](https://aws.amazon.com/lambda/)
